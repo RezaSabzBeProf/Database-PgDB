@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase.Console", "DataBase.Console\DataBase.Console.csproj", "{CDBF2689-8ACF-40B1-8580-D36630C8D157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgServiceDB", "PgServiceDB\PgServiceDB.csproj", "{D10490E5-1BB0-4F95-88B6-76D70C84FB77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBF2689-8ACF-40B1-8580-D36630C8D157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBF2689-8ACF-40B1-8580-D36630C8D157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBF2689-8ACF-40B1-8580-D36630C8D157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBF2689-8ACF-40B1-8580-D36630C8D157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D10490E5-1BB0-4F95-88B6-76D70C84FB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10490E5-1BB0-4F95-88B6-76D70C84FB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10490E5-1BB0-4F95-88B6-76D70C84FB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10490E5-1BB0-4F95-88B6-76D70C84FB77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E9B906A-3BD3-43C1-B69F-BE5B9C4D8C8E}
+	EndGlobalSection
+EndGlobal
